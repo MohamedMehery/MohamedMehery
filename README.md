@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedMehery
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ... Embedded systems
+- 🌱 I’m currently learning ... Embedded software
 - 💞️ I’m looking to collaborate on ... Embedded software development
 - 📫 How to reach me ... +20-01288761365 
 
