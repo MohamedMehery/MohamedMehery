@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohamedMehery
+- 👋 Hi, I’m Mohamed Abdelnasser Mehery
 - 👀 I’m interested in ... Embedded systems
 - 🌱 I’m currently learning ... Embedded software
 - 💞️ I’m looking to collaborate on ... Embedded software development
