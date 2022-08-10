@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohamed Abdelnasser Mehery
 - 👀 I’m interested in ... Embedded systems
 - 🌱 I’m currently learning ... Embedded software
-- 💞️ I’m looking to collaborate on ... Embedded software development
+- 💞️ I’m looking to collaborate on ... Embedded systems development
 - 📫 How to reach me ...Phone number# +20-01288761365 
 - Email:- es-mohamed.abdelnasser1415@alexu.edu.eg
 
